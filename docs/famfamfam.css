@@ -1,0 +1,3013 @@
+[class*="fam-"] {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin: -0.1ex 0.025em 0 0.05em;
+  line-height: normal;
+  vertical-align: middle;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 16px 16px;
+}
+
+/* 16 pixels */
+.fam-accept {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/accept.png");
+}
+.fam-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/add.png");
+}
+.fam-anchor {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/anchor.png");
+}
+.fam-application {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application.png");
+}
+.fam-application-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_add.png");
+}
+.fam-application-cascade {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_cascade.png");
+}
+.fam-application-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_delete.png");
+}
+.fam-application-double {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_double.png");
+}
+.fam-application-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_edit.png");
+}
+.fam-application-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_error.png");
+}
+.fam-application-form {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_form.png");
+}
+.fam-application-form-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_form_add.png");
+}
+.fam-application-form-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_form_delete.png");
+}
+.fam-application-form-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_form_edit.png");
+}
+.fam-application-form-magnify {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_form_magnify.png");
+}
+.fam-application-get {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_get.png");
+}
+.fam-application-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_go.png");
+}
+.fam-application-home {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_home.png");
+}
+.fam-application-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_key.png");
+}
+.fam-application-lightning {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_lightning.png");
+}
+.fam-application-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_link.png");
+}
+.fam-application-osx {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_osx.png");
+}
+.fam-application-osx-terminal {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_osx_terminal.png");
+}
+.fam-application-put {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_put.png");
+}
+.fam-application-side-boxes {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_side_boxes.png");
+}
+.fam-application-side-contract {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_side_contract.png");
+}
+.fam-application-side-expand {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_side_expand.png");
+}
+.fam-application-side-list {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_side_list.png");
+}
+.fam-application-side-tree {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_side_tree.png");
+}
+.fam-application-split {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_split.png");
+}
+.fam-application-tile-horizontal {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_tile_horizontal.png");
+}
+.fam-application-tile-vertical {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_tile_vertical.png");
+}
+.fam-application-view-columns {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_view_columns.png");
+}
+.fam-application-view-detail {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_view_detail.png");
+}
+.fam-application-view-gallery {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_view_gallery.png");
+}
+.fam-application-view-icons {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_view_icons.png");
+}
+.fam-application-view-list {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_view_list.png");
+}
+.fam-application-view-tile {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_view_tile.png");
+}
+.fam-application-xp {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_xp.png");
+}
+.fam-application-xp-terminal {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/application_xp_terminal.png");
+}
+.fam-arrow-branch {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_branch.png");
+}
+.fam-arrow-divide {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_divide.png");
+}
+.fam-arrow-down {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_down.png");
+}
+.fam-arrow-in {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_in.png");
+}
+.fam-arrow-inout {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_inout.png");
+}
+.fam-arrow-join {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_join.png");
+}
+.fam-arrow-left {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_left.png");
+}
+.fam-arrow-merge {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_merge.png");
+}
+.fam-arrow-out {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_out.png");
+}
+.fam-arrow-redo {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_redo.png");
+}
+.fam-arrow-refresh {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_refresh.png");
+}
+.fam-arrow-refresh-small {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_refresh_small.png");
+}
+.fam-arrow-right {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_right.png");
+}
+.fam-arrow-rotate-anticlockwise {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_rotate_anticlockwise.png");
+}
+.fam-arrow-rotate-clockwise {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_rotate_clockwise.png");
+}
+.fam-arrow-switch {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_switch.png");
+}
+.fam-arrow-turn-left {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_turn_left.png");
+}
+.fam-arrow-turn-right {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_turn_right.png");
+}
+.fam-arrow-undo {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_undo.png");
+}
+.fam-arrow-up {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/arrow_up.png");
+}
+.fam-asterisk-orange {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/asterisk_orange.png");
+}
+.fam-asterisk-yellow {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/asterisk_yellow.png");
+}
+.fam-attach {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/attach.png");
+}
+.fam-award-star-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/award_star_add.png");
+}
+.fam-award-star-bronze-1 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/award_star_bronze_1.png");
+}
+.fam-award-star-bronze-2 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/award_star_bronze_2.png");
+}
+.fam-award-star-bronze-3 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/award_star_bronze_3.png");
+}
+.fam-award-star-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/award_star_delete.png");
+}
+.fam-award-star-gold-1 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/award_star_gold_1.png");
+}
+.fam-award-star-gold-2 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/award_star_gold_2.png");
+}
+.fam-award-star-gold-3 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/award_star_gold_3.png");
+}
+.fam-award-star-silver-1 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/award_star_silver_1.png");
+}
+.fam-award-star-silver-2 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/award_star_silver_2.png");
+}
+.fam-award-star-silver-3 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/award_star_silver_3.png");
+}
+.fam-basket {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/basket.png");
+}
+.fam-basket-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/basket_add.png");
+}
+.fam-basket-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/basket_delete.png");
+}
+.fam-basket-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/basket_edit.png");
+}
+.fam-basket-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/basket_error.png");
+}
+.fam-basket-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/basket_go.png");
+}
+.fam-basket-put {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/basket_put.png");
+}
+.fam-basket-remove {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/basket_remove.png");
+}
+.fam-bell {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bell.png");
+}
+.fam-bell-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bell_add.png");
+}
+.fam-bell-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bell_delete.png");
+}
+.fam-bell-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bell_error.png");
+}
+.fam-bell-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bell_go.png");
+}
+.fam-bell-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bell_link.png");
+}
+.fam-bin {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bin.png");
+}
+.fam-bin-closed {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bin_closed.png");
+}
+.fam-bin-empty {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bin_empty.png");
+}
+.fam-bomb {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bomb.png");
+}
+.fam-book {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/book.png");
+}
+.fam-book-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/book_add.png");
+}
+.fam-book-addresses {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/book_addresses.png");
+}
+.fam-book-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/book_delete.png");
+}
+.fam-book-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/book_edit.png");
+}
+.fam-book-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/book_error.png");
+}
+.fam-book-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/book_go.png");
+}
+.fam-book-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/book_key.png");
+}
+.fam-book-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/book_link.png");
+}
+.fam-book-next {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/book_next.png");
+}
+.fam-book-open {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/book_open.png");
+}
+.fam-book-previous {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/book_previous.png");
+}
+.fam-box {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/box.png");
+}
+.fam-brick {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/brick.png");
+}
+.fam-bricks {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bricks.png");
+}
+.fam-brick-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/brick_add.png");
+}
+.fam-brick-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/brick_delete.png");
+}
+.fam-brick-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/brick_edit.png");
+}
+.fam-brick-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/brick_error.png");
+}
+.fam-brick-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/brick_go.png");
+}
+.fam-brick-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/brick_link.png");
+}
+.fam-briefcase {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/briefcase.png");
+}
+.fam-bug {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bug.png");
+}
+.fam-bug-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bug_add.png");
+}
+.fam-bug-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bug_delete.png");
+}
+.fam-bug-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bug_edit.png");
+}
+.fam-bug-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bug_error.png");
+}
+.fam-bug-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bug_go.png");
+}
+.fam-bug-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bug_link.png");
+}
+.fam-building {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/building.png");
+}
+.fam-building-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/building_add.png");
+}
+.fam-building-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/building_delete.png");
+}
+.fam-building-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/building_edit.png");
+}
+.fam-building-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/building_error.png");
+}
+.fam-building-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/building_go.png");
+}
+.fam-building-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/building_key.png");
+}
+.fam-building-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/building_link.png");
+}
+.fam-bullet-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_add.png");
+}
+.fam-bullet-arrow-bottom {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_arrow_bottom.png");
+}
+.fam-bullet-arrow-down {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_arrow_down.png");
+}
+.fam-bullet-arrow-top {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_arrow_top.png");
+}
+.fam-bullet-arrow-up {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_arrow_up.png");
+}
+.fam-bullet-black {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_black.png");
+}
+.fam-bullet-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_blue.png");
+}
+.fam-bullet-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_delete.png");
+}
+.fam-bullet-disk {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_disk.png");
+}
+.fam-bullet-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_error.png");
+}
+.fam-bullet-feed {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_feed.png");
+}
+.fam-bullet-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_go.png");
+}
+.fam-bullet-green {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_green.png");
+}
+.fam-bullet-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_key.png");
+}
+.fam-bullet-orange {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_orange.png");
+}
+.fam-bullet-picture {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_picture.png");
+}
+.fam-bullet-pink {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_pink.png");
+}
+.fam-bullet-purple {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_purple.png");
+}
+.fam-bullet-red {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_red.png");
+}
+.fam-bullet-star {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_star.png");
+}
+.fam-bullet-toggle-minus {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_toggle_minus.png");
+}
+.fam-bullet-toggle-plus {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_toggle_plus.png");
+}
+.fam-bullet-white {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_white.png");
+}
+.fam-bullet-wrench {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_wrench.png");
+}
+.fam-bullet-yellow {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/bullet_yellow.png");
+}
+.fam-cake {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cake.png");
+}
+.fam-calculator {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calculator.png");
+}
+.fam-calculator-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calculator_add.png");
+}
+.fam-calculator-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calculator_delete.png");
+}
+.fam-calculator-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calculator_edit.png");
+}
+.fam-calculator-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calculator_error.png");
+}
+.fam-calculator-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calculator_link.png");
+}
+.fam-calendar {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calendar.png");
+}
+.fam-calendar-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calendar_add.png");
+}
+.fam-calendar-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calendar_delete.png");
+}
+.fam-calendar-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calendar_edit.png");
+}
+.fam-calendar-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calendar_link.png");
+}
+.fam-calendar-view-day {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calendar_view_day.png");
+}
+.fam-calendar-view-month {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calendar_view_month.png");
+}
+.fam-calendar-view-week {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/calendar_view_week.png");
+}
+.fam-camera {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/camera.png");
+}
+.fam-camera-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/camera_add.png");
+}
+.fam-camera-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/camera_delete.png");
+}
+.fam-camera-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/camera_edit.png");
+}
+.fam-camera-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/camera_error.png");
+}
+.fam-camera-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/camera_go.png");
+}
+.fam-camera-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/camera_link.png");
+}
+.fam-camera-small {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/camera_small.png");
+}
+.fam-cancel {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cancel.png");
+}
+.fam-car {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/car.png");
+}
+.fam-cart {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cart.png");
+}
+.fam-cart-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cart_add.png");
+}
+.fam-cart-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cart_delete.png");
+}
+.fam-cart-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cart_edit.png");
+}
+.fam-cart-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cart_error.png");
+}
+.fam-cart-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cart_go.png");
+}
+.fam-cart-put {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cart_put.png");
+}
+.fam-cart-remove {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cart_remove.png");
+}
+.fam-car-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/car_add.png");
+}
+.fam-car-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/car_delete.png");
+}
+.fam-cd {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cd.png");
+}
+.fam-cd-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cd_add.png");
+}
+.fam-cd-burn {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cd_burn.png");
+}
+.fam-cd-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cd_delete.png");
+}
+.fam-cd-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cd_edit.png");
+}
+.fam-cd-eject {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cd_eject.png");
+}
+.fam-cd-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cd_go.png");
+}
+.fam-chart-bar {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_bar.png");
+}
+.fam-chart-bar-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_bar_add.png");
+}
+.fam-chart-bar-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_bar_delete.png");
+}
+.fam-chart-bar-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_bar_edit.png");
+}
+.fam-chart-bar-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_bar_error.png");
+}
+.fam-chart-bar-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_bar_link.png");
+}
+.fam-chart-curve {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_curve.png");
+}
+.fam-chart-curve-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_curve_add.png");
+}
+.fam-chart-curve-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_curve_delete.png");
+}
+.fam-chart-curve-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_curve_edit.png");
+}
+.fam-chart-curve-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_curve_error.png");
+}
+.fam-chart-curve-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_curve_go.png");
+}
+.fam-chart-curve-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_curve_link.png");
+}
+.fam-chart-line {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_line.png");
+}
+.fam-chart-line-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_line_add.png");
+}
+.fam-chart-line-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_line_delete.png");
+}
+.fam-chart-line-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_line_edit.png");
+}
+.fam-chart-line-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_line_error.png");
+}
+.fam-chart-line-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_line_link.png");
+}
+.fam-chart-organisation {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_organisation.png");
+}
+.fam-chart-organisation-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_organisation_add.png");
+}
+.fam-chart-organisation-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_organisation_delete.png");
+}
+.fam-chart-pie {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_pie.png");
+}
+.fam-chart-pie-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_pie_add.png");
+}
+.fam-chart-pie-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_pie_delete.png");
+}
+.fam-chart-pie-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_pie_edit.png");
+}
+.fam-chart-pie-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_pie_error.png");
+}
+.fam-chart-pie-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/chart_pie_link.png");
+}
+.fam-clock {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/clock.png");
+}
+.fam-clock-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/clock_add.png");
+}
+.fam-clock-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/clock_delete.png");
+}
+.fam-clock-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/clock_edit.png");
+}
+.fam-clock-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/clock_error.png");
+}
+.fam-clock-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/clock_go.png");
+}
+.fam-clock-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/clock_link.png");
+}
+.fam-clock-pause {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/clock_pause.png");
+}
+.fam-clock-play {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/clock_play.png");
+}
+.fam-clock-red {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/clock_red.png");
+}
+.fam-clock-stop {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/clock_stop.png");
+}
+.fam-cog {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cog.png");
+}
+.fam-cog-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cog_add.png");
+}
+.fam-cog-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cog_delete.png");
+}
+.fam-cog-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cog_edit.png");
+}
+.fam-cog-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cog_error.png");
+}
+.fam-cog-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cog_go.png");
+}
+.fam-coins {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/coins.png");
+}
+.fam-coins-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/coins_add.png");
+}
+.fam-coins-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/coins_delete.png");
+}
+.fam-color-swatch {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/color_swatch.png");
+}
+.fam-color-wheel {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/color_wheel.png");
+}
+.fam-comment {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/comment.png");
+}
+.fam-comments {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/comments.png");
+}
+.fam-comments-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/comments_add.png");
+}
+.fam-comments-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/comments_delete.png");
+}
+.fam-comment-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/comment_add.png");
+}
+.fam-comment-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/comment_delete.png");
+}
+.fam-comment-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/comment_edit.png");
+}
+.fam-compress {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/compress.png");
+}
+.fam-computer {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/computer.png");
+}
+.fam-computer-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/computer_add.png");
+}
+.fam-computer-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/computer_delete.png");
+}
+.fam-computer-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/computer_edit.png");
+}
+.fam-computer-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/computer_error.png");
+}
+.fam-computer-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/computer_go.png");
+}
+.fam-computer-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/computer_key.png");
+}
+.fam-computer-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/computer_link.png");
+}
+.fam-connect {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/connect.png");
+}
+.fam-contrast {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/contrast.png");
+}
+.fam-contrast-decrease {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/contrast_decrease.png");
+}
+.fam-contrast-high {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/contrast_high.png");
+}
+.fam-contrast-increase {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/contrast_increase.png");
+}
+.fam-contrast-low {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/contrast_low.png");
+}
+.fam-controller {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/controller.png");
+}
+.fam-controller-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/controller_add.png");
+}
+.fam-controller-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/controller_delete.png");
+}
+.fam-controller-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/controller_error.png");
+}
+.fam-control-eject {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_eject.png");
+}
+.fam-control-eject-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_eject_blue.png");
+}
+.fam-control-end {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_end.png");
+}
+.fam-control-end-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_end_blue.png");
+}
+.fam-control-equalizer {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_equalizer.png");
+}
+.fam-control-equalizer-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_equalizer_blue.png");
+}
+.fam-control-fastforward {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_fastforward.png");
+}
+.fam-control-fastforward-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_fastforward_blue.png");
+}
+.fam-control-pause {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_pause.png");
+}
+.fam-control-pause-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_pause_blue.png");
+}
+.fam-control-play {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_play.png");
+}
+.fam-control-play-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_play_blue.png");
+}
+.fam-control-repeat {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_repeat.png");
+}
+.fam-control-repeat-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_repeat_blue.png");
+}
+.fam-control-rewind {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_rewind.png");
+}
+.fam-control-rewind-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_rewind_blue.png");
+}
+.fam-control-start {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_start.png");
+}
+.fam-control-start-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_start_blue.png");
+}
+.fam-control-stop {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_stop.png");
+}
+.fam-control-stop-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/control_stop_blue.png");
+}
+.fam-creditcards {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/creditcards.png");
+}
+.fam-cross {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cross.png");
+}
+.fam-css {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/css.png");
+}
+.fam-css-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/css_add.png");
+}
+.fam-css-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/css_delete.png");
+}
+.fam-css-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/css_go.png");
+}
+.fam-css-valid {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/css_valid.png");
+}
+.fam-cup {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cup.png");
+}
+.fam-cup-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cup_add.png");
+}
+.fam-cup-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cup_delete.png");
+}
+.fam-cup-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cup_edit.png");
+}
+.fam-cup-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cup_error.png");
+}
+.fam-cup-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cup_go.png");
+}
+.fam-cup-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cup_key.png");
+}
+.fam-cup-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cup_link.png");
+}
+.fam-cursor {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cursor.png");
+}
+.fam-cut {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cut.png");
+}
+.fam-cut-red {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/cut_red.png");
+}
+.fam-database {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database.png");
+}
+.fam-database-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database_add.png");
+}
+.fam-database-connect {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database_connect.png");
+}
+.fam-database-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database_delete.png");
+}
+.fam-database-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database_edit.png");
+}
+.fam-database-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database_error.png");
+}
+.fam-database-gear {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database_gear.png");
+}
+.fam-database-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database_go.png");
+}
+.fam-database-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database_key.png");
+}
+.fam-database-lightning {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database_lightning.png");
+}
+.fam-database-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database_link.png");
+}
+.fam-database-refresh {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database_refresh.png");
+}
+.fam-database-save {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database_save.png");
+}
+.fam-database-table {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/database_table.png");
+}
+.fam-date {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/date.png");
+}
+.fam-date-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/date_add.png");
+}
+.fam-date-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/date_delete.png");
+}
+.fam-date-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/date_edit.png");
+}
+.fam-date-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/date_error.png");
+}
+.fam-date-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/date_go.png");
+}
+.fam-date-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/date_link.png");
+}
+.fam-date-magnify {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/date_magnify.png");
+}
+.fam-date-next {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/date_next.png");
+}
+.fam-date-previous {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/date_previous.png");
+}
+.fam-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/delete.png");
+}
+.fam-disconnect {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/disconnect.png");
+}
+.fam-disk {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/disk.png");
+}
+.fam-disk-multiple {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/disk_multiple.png");
+}
+.fam-door {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/door.png");
+}
+.fam-door-in {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/door_in.png");
+}
+.fam-door-open {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/door_open.png");
+}
+.fam-door-out {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/door_out.png");
+}
+.fam-drink {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drink.png");
+}
+.fam-drink-empty {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drink_empty.png");
+}
+.fam-drive {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive.png");
+}
+.fam-drive-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_add.png");
+}
+.fam-drive-burn {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_burn.png");
+}
+.fam-drive-cd {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_cd.png");
+}
+.fam-drive-cd-empty {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_cd_empty.png");
+}
+.fam-drive-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_delete.png");
+}
+.fam-drive-disk {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_disk.png");
+}
+.fam-drive-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_edit.png");
+}
+.fam-drive-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_error.png");
+}
+.fam-drive-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_go.png");
+}
+.fam-drive-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_key.png");
+}
+.fam-drive-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_link.png");
+}
+.fam-drive-magnify {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_magnify.png");
+}
+.fam-drive-network {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_network.png");
+}
+.fam-drive-rename {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_rename.png");
+}
+.fam-drive-user {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_user.png");
+}
+.fam-drive-web {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/drive_web.png");
+}
+.fam-dvd {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/dvd.png");
+}
+.fam-dvd-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/dvd_add.png");
+}
+.fam-dvd-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/dvd_delete.png");
+}
+.fam-dvd-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/dvd_edit.png");
+}
+.fam-dvd-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/dvd_error.png");
+}
+.fam-dvd-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/dvd_go.png");
+}
+.fam-dvd-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/dvd_key.png");
+}
+.fam-dvd-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/dvd_link.png");
+}
+.fam-email {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/email.png");
+}
+.fam-email-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/email_add.png");
+}
+.fam-email-attach {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/email_attach.png");
+}
+.fam-email-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/email_delete.png");
+}
+.fam-email-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/email_edit.png");
+}
+.fam-email-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/email_error.png");
+}
+.fam-email-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/email_go.png");
+}
+.fam-email-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/email_link.png");
+}
+.fam-email-open {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/email_open.png");
+}
+.fam-email-open-image {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/email_open_image.png");
+}
+.fam-emoticon-evilgrin {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/emoticon_evilgrin.png");
+}
+.fam-emoticon-grin {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/emoticon_grin.png");
+}
+.fam-emoticon-happy {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/emoticon_happy.png");
+}
+.fam-emoticon-smile {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/emoticon_smile.png");
+}
+.fam-emoticon-surprised {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/emoticon_surprised.png");
+}
+.fam-emoticon-tongue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/emoticon_tongue.png");
+}
+.fam-emoticon-unhappy {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/emoticon_unhappy.png");
+}
+.fam-emoticon-waii {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/emoticon_waii.png");
+}
+.fam-emoticon-wink {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/emoticon_wink.png");
+}
+.fam-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/error.png");
+}
+.fam-error-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/error_add.png");
+}
+.fam-error-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/error_delete.png");
+}
+.fam-error-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/error_go.png");
+}
+.fam-exclamation {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/exclamation.png");
+}
+.fam-eye {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/eye.png");
+}
+.fam-feed {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/feed.png");
+}
+.fam-feed-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/feed_add.png");
+}
+.fam-feed-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/feed_delete.png");
+}
+.fam-feed-disk {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/feed_disk.png");
+}
+.fam-feed-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/feed_edit.png");
+}
+.fam-feed-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/feed_error.png");
+}
+.fam-feed-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/feed_go.png");
+}
+.fam-feed-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/feed_key.png");
+}
+.fam-feed-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/feed_link.png");
+}
+.fam-feed-magnify {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/feed_magnify.png");
+}
+.fam-female {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/female.png");
+}
+.fam-film {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/film.png");
+}
+.fam-film-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/film_add.png");
+}
+.fam-film-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/film_delete.png");
+}
+.fam-film-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/film_edit.png");
+}
+.fam-film-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/film_error.png");
+}
+.fam-film-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/film_go.png");
+}
+.fam-film-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/film_key.png");
+}
+.fam-film-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/film_link.png");
+}
+.fam-film-save {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/film_save.png");
+}
+.fam-find {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/find.png");
+}
+.fam-flag-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/flag_blue.png");
+}
+.fam-flag-green {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/flag_green.png");
+}
+.fam-flag-orange {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/flag_orange.png");
+}
+.fam-flag-pink {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/flag_pink.png");
+}
+.fam-flag-purple {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/flag_purple.png");
+}
+.fam-flag-red {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/flag_red.png");
+}
+.fam-flag-yellow {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/flag_yellow.png");
+}
+.fam-folder {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder.png");
+}
+.fam-folder-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_add.png");
+}
+.fam-folder-bell {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_bell.png");
+}
+.fam-folder-brick {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_brick.png");
+}
+.fam-folder-bug {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_bug.png");
+}
+.fam-folder-camera {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_camera.png");
+}
+.fam-folder-database {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_database.png");
+}
+.fam-folder-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_delete.png");
+}
+.fam-folder-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_edit.png");
+}
+.fam-folder-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_error.png");
+}
+.fam-folder-explore {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_explore.png");
+}
+.fam-folder-feed {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_feed.png");
+}
+.fam-folder-find {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_find.png");
+}
+.fam-folder-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_go.png");
+}
+.fam-folder-heart {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_heart.png");
+}
+.fam-folder-image {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_image.png");
+}
+.fam-folder-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_key.png");
+}
+.fam-folder-lightbulb {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_lightbulb.png");
+}
+.fam-folder-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_link.png");
+}
+.fam-folder-magnify {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_magnify.png");
+}
+.fam-folder-page {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_page.png");
+}
+.fam-folder-page-white {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_page_white.png");
+}
+.fam-folder-palette {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_palette.png");
+}
+.fam-folder-picture {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_picture.png");
+}
+.fam-folder-star {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_star.png");
+}
+.fam-folder-table {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_table.png");
+}
+.fam-folder-user {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_user.png");
+}
+.fam-folder-wrench {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/folder_wrench.png");
+}
+.fam-font {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/font.png");
+}
+.fam-font-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/font_add.png");
+}
+.fam-font-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/font_delete.png");
+}
+.fam-font-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/font_go.png");
+}
+.fam-group {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/group.png");
+}
+.fam-group-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/group_add.png");
+}
+.fam-group-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/group_delete.png");
+}
+.fam-group-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/group_edit.png");
+}
+.fam-group-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/group_error.png");
+}
+.fam-group-gear {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/group_gear.png");
+}
+.fam-group-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/group_go.png");
+}
+.fam-group-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/group_key.png");
+}
+.fam-group-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/group_link.png");
+}
+.fam-heart {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/heart.png");
+}
+.fam-heart-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/heart_add.png");
+}
+.fam-heart-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/heart_delete.png");
+}
+.fam-help {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/help.png");
+}
+.fam-hourglass {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/hourglass.png");
+}
+.fam-hourglass-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/hourglass_add.png");
+}
+.fam-hourglass-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/hourglass_delete.png");
+}
+.fam-hourglass-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/hourglass_go.png");
+}
+.fam-hourglass-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/hourglass_link.png");
+}
+.fam-house {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/house.png");
+}
+.fam-house-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/house_go.png");
+}
+.fam-house-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/house_link.png");
+}
+.fam-html {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/html.png");
+}
+.fam-html-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/html_add.png");
+}
+.fam-html-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/html_delete.png");
+}
+.fam-html-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/html_go.png");
+}
+.fam-html-valid {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/html_valid.png");
+}
+.fam-image {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/image.png");
+}
+.fam-images {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/images.png");
+}
+.fam-image-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/image_add.png");
+}
+.fam-image-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/image_delete.png");
+}
+.fam-image-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/image_edit.png");
+}
+.fam-image-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/image_link.png");
+}
+.fam-information {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/information.png");
+}
+.fam-ipod {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ipod.png");
+}
+.fam-ipod-cast {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ipod_cast.png");
+}
+.fam-ipod-cast-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ipod_cast_add.png");
+}
+.fam-ipod-cast-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ipod_cast_delete.png");
+}
+.fam-ipod-sound {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ipod_sound.png");
+}
+.fam-joystick {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/joystick.png");
+}
+.fam-joystick-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/joystick_add.png");
+}
+.fam-joystick-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/joystick_delete.png");
+}
+.fam-joystick-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/joystick_error.png");
+}
+.fam-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/key.png");
+}
+.fam-keyboard {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/keyboard.png");
+}
+.fam-keyboard-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/keyboard_add.png");
+}
+.fam-keyboard-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/keyboard_delete.png");
+}
+.fam-keyboard-magnify {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/keyboard_magnify.png");
+}
+.fam-key-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/key_add.png");
+}
+.fam-key-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/key_delete.png");
+}
+.fam-key-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/key_go.png");
+}
+.fam-layers {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/layers.png");
+}
+.fam-layout {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/layout.png");
+}
+.fam-layout-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/layout_add.png");
+}
+.fam-layout-content {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/layout_content.png");
+}
+.fam-layout-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/layout_delete.png");
+}
+.fam-layout-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/layout_edit.png");
+}
+.fam-layout-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/layout_error.png");
+}
+.fam-layout-header {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/layout_header.png");
+}
+.fam-layout-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/layout_link.png");
+}
+.fam-layout-sidebar {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/layout_sidebar.png");
+}
+.fam-lightbulb {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lightbulb.png");
+}
+.fam-lightbulb-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lightbulb_add.png");
+}
+.fam-lightbulb-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lightbulb_delete.png");
+}
+.fam-lightbulb-off {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lightbulb_off.png");
+}
+.fam-lightning {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lightning.png");
+}
+.fam-lightning-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lightning_add.png");
+}
+.fam-lightning-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lightning_delete.png");
+}
+.fam-lightning-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lightning_go.png");
+}
+.fam-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/link.png");
+}
+.fam-link-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/link_add.png");
+}
+.fam-link-break {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/link_break.png");
+}
+.fam-link-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/link_delete.png");
+}
+.fam-link-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/link_edit.png");
+}
+.fam-link-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/link_error.png");
+}
+.fam-link-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/link_go.png");
+}
+.fam-lock {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lock.png");
+}
+.fam-lock-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lock_add.png");
+}
+.fam-lock-break {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lock_break.png");
+}
+.fam-lock-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lock_delete.png");
+}
+.fam-lock-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lock_edit.png");
+}
+.fam-lock-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lock_go.png");
+}
+.fam-lock-open {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lock_open.png");
+}
+.fam-lorry {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lorry.png");
+}
+.fam-lorry-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lorry_add.png");
+}
+.fam-lorry-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lorry_delete.png");
+}
+.fam-lorry-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lorry_error.png");
+}
+.fam-lorry-flatbed {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lorry_flatbed.png");
+}
+.fam-lorry-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lorry_go.png");
+}
+.fam-lorry-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/lorry_link.png");
+}
+.fam-magifier-zoom-out {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/magifier_zoom_out.png");
+}
+.fam-magnifier {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/magnifier.png");
+}
+.fam-magnifier-zoom-in {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/magnifier_zoom_in.png");
+}
+.fam-male {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/male.png");
+}
+.fam-map {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/map.png");
+}
+.fam-map-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/map_add.png");
+}
+.fam-map-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/map_delete.png");
+}
+.fam-map-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/map_edit.png");
+}
+.fam-map-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/map_go.png");
+}
+.fam-map-magnify {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/map_magnify.png");
+}
+.fam-medal-bronze-1 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_bronze_1.png");
+}
+.fam-medal-bronze-2 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_bronze_2.png");
+}
+.fam-medal-bronze-3 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_bronze_3.png");
+}
+.fam-medal-bronze-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_bronze_add.png");
+}
+.fam-medal-bronze-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_bronze_delete.png");
+}
+.fam-medal-gold-1 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_gold_1.png");
+}
+.fam-medal-gold-2 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_gold_2.png");
+}
+.fam-medal-gold-3 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_gold_3.png");
+}
+.fam-medal-gold-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_gold_add.png");
+}
+.fam-medal-gold-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_gold_delete.png");
+}
+.fam-medal-silver-1 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_silver_1.png");
+}
+.fam-medal-silver-2 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_silver_2.png");
+}
+.fam-medal-silver-3 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_silver_3.png");
+}
+.fam-medal-silver-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_silver_add.png");
+}
+.fam-medal-silver-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/medal_silver_delete.png");
+}
+.fam-money {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/money.png");
+}
+.fam-money-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/money_add.png");
+}
+.fam-money-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/money_delete.png");
+}
+.fam-money-dollar {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/money_dollar.png");
+}
+.fam-money-euro {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/money_euro.png");
+}
+.fam-money-pound {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/money_pound.png");
+}
+.fam-money-yen {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/money_yen.png");
+}
+.fam-monitor {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/monitor.png");
+}
+.fam-monitor-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/monitor_add.png");
+}
+.fam-monitor-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/monitor_delete.png");
+}
+.fam-monitor-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/monitor_edit.png");
+}
+.fam-monitor-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/monitor_error.png");
+}
+.fam-monitor-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/monitor_go.png");
+}
+.fam-monitor-lightning {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/monitor_lightning.png");
+}
+.fam-monitor-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/monitor_link.png");
+}
+.fam-mouse {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/mouse.png");
+}
+.fam-mouse-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/mouse_add.png");
+}
+.fam-mouse-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/mouse_delete.png");
+}
+.fam-mouse-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/mouse_error.png");
+}
+.fam-music {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/music.png");
+}
+.fam-new {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/new.png");
+}
+.fam-newspaper {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/newspaper.png");
+}
+.fam-newspaper-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/newspaper_add.png");
+}
+.fam-newspaper-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/newspaper_delete.png");
+}
+.fam-newspaper-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/newspaper_go.png");
+}
+.fam-newspaper-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/newspaper_link.png");
+}
+.fam-note {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/note.png");
+}
+.fam-note-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/note_add.png");
+}
+.fam-note-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/note_delete.png");
+}
+.fam-note-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/note_edit.png");
+}
+.fam-note-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/note_error.png");
+}
+.fam-note-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/note_go.png");
+}
+.fam-overlays {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/overlays.png");
+}
+.fam-package {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/package.png");
+}
+.fam-package-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/package_add.png");
+}
+.fam-package-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/package_delete.png");
+}
+.fam-package-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/package_go.png");
+}
+.fam-package-green {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/package_green.png");
+}
+.fam-package-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/package_link.png");
+}
+.fam-page {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page.png");
+}
+.fam-page-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_add.png");
+}
+.fam-page-attach {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_attach.png");
+}
+.fam-page-code {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_code.png");
+}
+.fam-page-copy {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_copy.png");
+}
+.fam-page-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_delete.png");
+}
+.fam-page-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_edit.png");
+}
+.fam-page-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_error.png");
+}
+.fam-page-excel {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_excel.png");
+}
+.fam-page-find {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_find.png");
+}
+.fam-page-gear {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_gear.png");
+}
+.fam-page-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_go.png");
+}
+.fam-page-green {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_green.png");
+}
+.fam-page-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_key.png");
+}
+.fam-page-lightning {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_lightning.png");
+}
+.fam-page-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_link.png");
+}
+.fam-page-paintbrush {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_paintbrush.png");
+}
+.fam-page-paste {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_paste.png");
+}
+.fam-page-red {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_red.png");
+}
+.fam-page-refresh {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_refresh.png");
+}
+.fam-page-save {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_save.png");
+}
+.fam-page-white {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white.png");
+}
+.fam-page-white-acrobat {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_acrobat.png");
+}
+.fam-page-white-actionscript {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_actionscript.png");
+}
+.fam-page-white-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_add.png");
+}
+.fam-page-white-c {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_c.png");
+}
+.fam-page-white-camera {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_camera.png");
+}
+.fam-page-white-cd {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_cd.png");
+}
+.fam-page-white-code {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_code.png");
+}
+.fam-page-white-code-red {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_code_red.png");
+}
+.fam-page-white-coldfusion {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_coldfusion.png");
+}
+.fam-page-white-compressed {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_compressed.png");
+}
+.fam-page-white-copy {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_copy.png");
+}
+.fam-page-white-cplusplus {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_cplusplus.png");
+}
+.fam-page-white-csharp {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_csharp.png");
+}
+.fam-page-white-cup {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_cup.png");
+}
+.fam-page-white-database {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_database.png");
+}
+.fam-page-white-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_delete.png");
+}
+.fam-page-white-dvd {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_dvd.png");
+}
+.fam-page-white-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_edit.png");
+}
+.fam-page-white-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_error.png");
+}
+.fam-page-white-excel {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_excel.png");
+}
+.fam-page-white-find {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_find.png");
+}
+.fam-page-white-flash {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_flash.png");
+}
+.fam-page-white-freehand {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_freehand.png");
+}
+.fam-page-white-gear {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_gear.png");
+}
+.fam-page-white-get {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_get.png");
+}
+.fam-page-white-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_go.png");
+}
+.fam-page-white-h {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_h.png");
+}
+.fam-page-white-horizontal {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_horizontal.png");
+}
+.fam-page-white-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_key.png");
+}
+.fam-page-white-lightning {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_lightning.png");
+}
+.fam-page-white-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_link.png");
+}
+.fam-page-white-magnify {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_magnify.png");
+}
+.fam-page-white-medal {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_medal.png");
+}
+.fam-page-white-office {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_office.png");
+}
+.fam-page-white-paint {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_paint.png");
+}
+.fam-page-white-paintbrush {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_paintbrush.png");
+}
+.fam-page-white-paste {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_paste.png");
+}
+.fam-page-white-php {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_php.png");
+}
+.fam-page-white-picture {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_picture.png");
+}
+.fam-page-white-powerpoint {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_powerpoint.png");
+}
+.fam-page-white-put {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_put.png");
+}
+.fam-page-white-ruby {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_ruby.png");
+}
+.fam-page-white-stack {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_stack.png");
+}
+.fam-page-white-star {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_star.png");
+}
+.fam-page-white-swoosh {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_swoosh.png");
+}
+.fam-page-white-text {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_text.png");
+}
+.fam-page-white-text-width {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_text_width.png");
+}
+.fam-page-white-tux {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_tux.png");
+}
+.fam-page-white-vector {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_vector.png");
+}
+.fam-page-white-visualstudio {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_visualstudio.png");
+}
+.fam-page-white-width {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_width.png");
+}
+.fam-page-white-word {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_word.png");
+}
+.fam-page-white-world {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_world.png");
+}
+.fam-page-white-wrench {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_wrench.png");
+}
+.fam-page-white-zip {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_white_zip.png");
+}
+.fam-page-word {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_word.png");
+}
+.fam-page-world {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/page_world.png");
+}
+.fam-paintbrush {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/paintbrush.png");
+}
+.fam-paintcan {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/paintcan.png");
+}
+.fam-palette {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/palette.png");
+}
+.fam-paste-plain {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/paste_plain.png");
+}
+.fam-paste-word {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/paste_word.png");
+}
+.fam-pencil {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/pencil.png");
+}
+.fam-pencil-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/pencil_add.png");
+}
+.fam-pencil-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/pencil_delete.png");
+}
+.fam-pencil-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/pencil_go.png");
+}
+.fam-phone {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/phone.png");
+}
+.fam-phone-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/phone_add.png");
+}
+.fam-phone-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/phone_delete.png");
+}
+.fam-phone-sound {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/phone_sound.png");
+}
+.fam-photo {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/photo.png");
+}
+.fam-photos {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/photos.png");
+}
+.fam-photo-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/photo_add.png");
+}
+.fam-photo-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/photo_delete.png");
+}
+.fam-photo-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/photo_link.png");
+}
+.fam-picture {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/picture.png");
+}
+.fam-pictures {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/pictures.png");
+}
+.fam-picture-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/picture_add.png");
+}
+.fam-picture-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/picture_delete.png");
+}
+.fam-picture-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/picture_edit.png");
+}
+.fam-picture-empty {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/picture_empty.png");
+}
+.fam-picture-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/picture_error.png");
+}
+.fam-picture-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/picture_go.png");
+}
+.fam-picture-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/picture_key.png");
+}
+.fam-picture-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/picture_link.png");
+}
+.fam-picture-save {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/picture_save.png");
+}
+.fam-pilcrow {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/pilcrow.png");
+}
+.fam-pill {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/pill.png");
+}
+.fam-pill-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/pill_add.png");
+}
+.fam-pill-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/pill_delete.png");
+}
+.fam-pill-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/pill_go.png");
+}
+.fam-plugin {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/plugin.png");
+}
+.fam-plugin-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/plugin_add.png");
+}
+.fam-plugin-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/plugin_delete.png");
+}
+.fam-plugin-disabled {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/plugin_disabled.png");
+}
+.fam-plugin-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/plugin_edit.png");
+}
+.fam-plugin-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/plugin_error.png");
+}
+.fam-plugin-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/plugin_go.png");
+}
+.fam-plugin-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/plugin_link.png");
+}
+.fam-printer {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/printer.png");
+}
+.fam-printer-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/printer_add.png");
+}
+.fam-printer-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/printer_delete.png");
+}
+.fam-printer-empty {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/printer_empty.png");
+}
+.fam-printer-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/printer_error.png");
+}
+.fam-rainbow {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/rainbow.png");
+}
+.fam-report {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/report.png");
+}
+.fam-report-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/report_add.png");
+}
+.fam-report-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/report_delete.png");
+}
+.fam-report-disk {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/report_disk.png");
+}
+.fam-report-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/report_edit.png");
+}
+.fam-report-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/report_go.png");
+}
+.fam-report-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/report_key.png");
+}
+.fam-report-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/report_link.png");
+}
+.fam-report-magnify {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/report_magnify.png");
+}
+.fam-report-picture {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/report_picture.png");
+}
+.fam-report-user {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/report_user.png");
+}
+.fam-report-word {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/report_word.png");
+}
+.fam-resultset-first {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/resultset_first.png");
+}
+.fam-resultset-last {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/resultset_last.png");
+}
+.fam-resultset-next {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/resultset_next.png");
+}
+.fam-resultset-previous {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/resultset_previous.png");
+}
+.fam-rosette {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/rosette.png");
+}
+.fam-rss {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/rss.png");
+}
+.fam-rss-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/rss_add.png");
+}
+.fam-rss-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/rss_delete.png");
+}
+.fam-rss-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/rss_go.png");
+}
+.fam-rss-valid {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/rss_valid.png");
+}
+.fam-ruby {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ruby.png");
+}
+.fam-ruby-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ruby_add.png");
+}
+.fam-ruby-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ruby_delete.png");
+}
+.fam-ruby-gear {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ruby_gear.png");
+}
+.fam-ruby-get {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ruby_get.png");
+}
+.fam-ruby-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ruby_go.png");
+}
+.fam-ruby-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ruby_key.png");
+}
+.fam-ruby-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ruby_link.png");
+}
+.fam-ruby-put {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/ruby_put.png");
+}
+.fam-script {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script.png");
+}
+.fam-script-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script_add.png");
+}
+.fam-script-code {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script_code.png");
+}
+.fam-script-code-red {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script_code_red.png");
+}
+.fam-script-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script_delete.png");
+}
+.fam-script-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script_edit.png");
+}
+.fam-script-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script_error.png");
+}
+.fam-script-gear {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script_gear.png");
+}
+.fam-script-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script_go.png");
+}
+.fam-script-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script_key.png");
+}
+.fam-script-lightning {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script_lightning.png");
+}
+.fam-script-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script_link.png");
+}
+.fam-script-palette {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script_palette.png");
+}
+.fam-script-save {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/script_save.png");
+}
+.fam-server {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server.png");
+}
+.fam-server-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server_add.png");
+}
+.fam-server-chart {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server_chart.png");
+}
+.fam-server-compressed {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server_compressed.png");
+}
+.fam-server-connect {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server_connect.png");
+}
+.fam-server-database {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server_database.png");
+}
+.fam-server-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server_delete.png");
+}
+.fam-server-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server_edit.png");
+}
+.fam-server-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server_error.png");
+}
+.fam-server-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server_go.png");
+}
+.fam-server-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server_key.png");
+}
+.fam-server-lightning {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server_lightning.png");
+}
+.fam-server-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server_link.png");
+}
+.fam-server-uncompressed {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/server_uncompressed.png");
+}
+.fam-shading {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shading.png");
+}
+.fam-shape-align-bottom {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_align_bottom.png");
+}
+.fam-shape-align-center {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_align_center.png");
+}
+.fam-shape-align-left {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_align_left.png");
+}
+.fam-shape-align-middle {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_align_middle.png");
+}
+.fam-shape-align-right {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_align_right.png");
+}
+.fam-shape-align-top {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_align_top.png");
+}
+.fam-shape-flip-horizontal {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_flip_horizontal.png");
+}
+.fam-shape-flip-vertical {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_flip_vertical.png");
+}
+.fam-shape-group {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_group.png");
+}
+.fam-shape-handles {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_handles.png");
+}
+.fam-shape-move-back {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_move_back.png");
+}
+.fam-shape-move-backwards {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_move_backwards.png");
+}
+.fam-shape-move-forwards {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_move_forwards.png");
+}
+.fam-shape-move-front {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_move_front.png");
+}
+.fam-shape-rotate-anticlockwise {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_rotate_anticlockwise.png");
+}
+.fam-shape-rotate-clockwise {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_rotate_clockwise.png");
+}
+.fam-shape-square {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_square.png");
+}
+.fam-shape-square-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_square_add.png");
+}
+.fam-shape-square-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_square_delete.png");
+}
+.fam-shape-square-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_square_edit.png");
+}
+.fam-shape-square-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_square_error.png");
+}
+.fam-shape-square-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_square_go.png");
+}
+.fam-shape-square-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_square_key.png");
+}
+.fam-shape-square-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_square_link.png");
+}
+.fam-shape-ungroup {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shape_ungroup.png");
+}
+.fam-shield {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shield.png");
+}
+.fam-shield-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shield_add.png");
+}
+.fam-shield-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shield_delete.png");
+}
+.fam-shield-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/shield_go.png");
+}
+.fam-sitemap {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sitemap.png");
+}
+.fam-sitemap-color {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sitemap_color.png");
+}
+.fam-sound {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sound.png");
+}
+.fam-sound-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sound_add.png");
+}
+.fam-sound-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sound_delete.png");
+}
+.fam-sound-low {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sound_low.png");
+}
+.fam-sound-mute {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sound_mute.png");
+}
+.fam-sound-none {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sound_none.png");
+}
+.fam-spellcheck {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/spellcheck.png");
+}
+.fam-sport-8ball {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sport_8ball.png");
+}
+.fam-sport-basketball {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sport_basketball.png");
+}
+.fam-sport-football {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sport_football.png");
+}
+.fam-sport-golf {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sport_golf.png");
+}
+.fam-sport-raquet {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sport_raquet.png");
+}
+.fam-sport-shuttlecock {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sport_shuttlecock.png");
+}
+.fam-sport-soccer {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sport_soccer.png");
+}
+.fam-sport-tennis {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sport_tennis.png");
+}
+.fam-star {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/star.png");
+}
+.fam-status-away {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/status_away.png");
+}
+.fam-status-busy {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/status_busy.png");
+}
+.fam-status-offline {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/status_offline.png");
+}
+.fam-status-online {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/status_online.png");
+}
+.fam-stop {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/stop.png");
+}
+.fam-style {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/style.png");
+}
+.fam-style-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/style_add.png");
+}
+.fam-style-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/style_delete.png");
+}
+.fam-style-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/style_edit.png");
+}
+.fam-style-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/style_go.png");
+}
+.fam-sum {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/sum.png");
+}
+.fam-tab {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tab.png");
+}
+.fam-table {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table.png");
+}
+.fam-table-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_add.png");
+}
+.fam-table-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_delete.png");
+}
+.fam-table-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_edit.png");
+}
+.fam-table-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_error.png");
+}
+.fam-table-gear {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_gear.png");
+}
+.fam-table-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_go.png");
+}
+.fam-table-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_key.png");
+}
+.fam-table-lightning {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_lightning.png");
+}
+.fam-table-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_link.png");
+}
+.fam-table-multiple {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_multiple.png");
+}
+.fam-table-refresh {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_refresh.png");
+}
+.fam-table-relationship {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_relationship.png");
+}
+.fam-table-row-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_row_delete.png");
+}
+.fam-table-row-insert {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_row_insert.png");
+}
+.fam-table-save {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_save.png");
+}
+.fam-table-sort {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/table_sort.png");
+}
+.fam-tab-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tab_add.png");
+}
+.fam-tab-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tab_delete.png");
+}
+.fam-tab-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tab_edit.png");
+}
+.fam-tab-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tab_go.png");
+}
+.fam-tag {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tag.png");
+}
+.fam-tag-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tag_blue.png");
+}
+.fam-tag-blue-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tag_blue_add.png");
+}
+.fam-tag-blue-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tag_blue_delete.png");
+}
+.fam-tag-blue-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tag_blue_edit.png");
+}
+.fam-tag-green {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tag_green.png");
+}
+.fam-tag-orange {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tag_orange.png");
+}
+.fam-tag-pink {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tag_pink.png");
+}
+.fam-tag-purple {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tag_purple.png");
+}
+.fam-tag-red {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tag_red.png");
+}
+.fam-tag-yellow {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tag_yellow.png");
+}
+.fam-telephone {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/telephone.png");
+}
+.fam-telephone-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/telephone_add.png");
+}
+.fam-telephone-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/telephone_delete.png");
+}
+.fam-telephone-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/telephone_edit.png");
+}
+.fam-telephone-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/telephone_error.png");
+}
+.fam-telephone-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/telephone_go.png");
+}
+.fam-telephone-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/telephone_key.png");
+}
+.fam-telephone-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/telephone_link.png");
+}
+.fam-television {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/television.png");
+}
+.fam-television-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/television_add.png");
+}
+.fam-television-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/television_delete.png");
+}
+.fam-textfield {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/textfield.png");
+}
+.fam-textfield-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/textfield_add.png");
+}
+.fam-textfield-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/textfield_delete.png");
+}
+.fam-textfield-key {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/textfield_key.png");
+}
+.fam-textfield-rename {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/textfield_rename.png");
+}
+.fam-text-align-center {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_align_center.png");
+}
+.fam-text-align-justify {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_align_justify.png");
+}
+.fam-text-align-left {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_align_left.png");
+}
+.fam-text-align-right {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_align_right.png");
+}
+.fam-text-allcaps {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_allcaps.png");
+}
+.fam-text-bold {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_bold.png");
+}
+.fam-text-columns {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_columns.png");
+}
+.fam-text-dropcaps {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_dropcaps.png");
+}
+.fam-text-heading-1 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_heading_1.png");
+}
+.fam-text-heading-2 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_heading_2.png");
+}
+.fam-text-heading-3 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_heading_3.png");
+}
+.fam-text-heading-4 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_heading_4.png");
+}
+.fam-text-heading-5 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_heading_5.png");
+}
+.fam-text-heading-6 {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_heading_6.png");
+}
+.fam-text-horizontalrule {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_horizontalrule.png");
+}
+.fam-text-indent {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_indent.png");
+}
+.fam-text-indent-remove {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_indent_remove.png");
+}
+.fam-text-italic {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_italic.png");
+}
+.fam-text-kerning {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_kerning.png");
+}
+.fam-text-letterspacing {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_letterspacing.png");
+}
+.fam-text-letter-omega {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_letter_omega.png");
+}
+.fam-text-linespacing {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_linespacing.png");
+}
+.fam-text-list-bullets {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_list_bullets.png");
+}
+.fam-text-list-numbers {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_list_numbers.png");
+}
+.fam-text-lowercase {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_lowercase.png");
+}
+.fam-text-padding-bottom {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_padding_bottom.png");
+}
+.fam-text-padding-left {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_padding_left.png");
+}
+.fam-text-padding-right {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_padding_right.png");
+}
+.fam-text-padding-top {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_padding_top.png");
+}
+.fam-text-replace {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_replace.png");
+}
+.fam-text-signature {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_signature.png");
+}
+.fam-text-smallcaps {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_smallcaps.png");
+}
+.fam-text-strikethrough {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_strikethrough.png");
+}
+.fam-text-subscript {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_subscript.png");
+}
+.fam-text-superscript {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_superscript.png");
+}
+.fam-text-underline {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_underline.png");
+}
+.fam-text-uppercase {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/text_uppercase.png");
+}
+.fam-thumb-down {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/thumb_down.png");
+}
+.fam-thumb-up {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/thumb_up.png");
+}
+.fam-tick {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tick.png");
+}
+.fam-time {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/time.png");
+}
+.fam-timeline-marker {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/timeline_marker.png");
+}
+.fam-time-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/time_add.png");
+}
+.fam-time-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/time_delete.png");
+}
+.fam-time-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/time_go.png");
+}
+.fam-transmit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/transmit.png");
+}
+.fam-transmit-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/transmit_add.png");
+}
+.fam-transmit-blue {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/transmit_blue.png");
+}
+.fam-transmit-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/transmit_delete.png");
+}
+.fam-transmit-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/transmit_edit.png");
+}
+.fam-transmit-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/transmit_error.png");
+}
+.fam-transmit-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/transmit_go.png");
+}
+.fam-tux {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/tux.png");
+}
+.fam-user {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/user.png");
+}
+.fam-user-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/user_add.png");
+}
+.fam-user-comment {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/user_comment.png");
+}
+.fam-user-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/user_delete.png");
+}
+.fam-user-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/user_edit.png");
+}
+.fam-user-female {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/user_female.png");
+}
+.fam-user-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/user_go.png");
+}
+.fam-user-gray {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/user_gray.png");
+}
+.fam-user-green {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/user_green.png");
+}
+.fam-user-orange {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/user_orange.png");
+}
+.fam-user-red {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/user_red.png");
+}
+.fam-user-suit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/user_suit.png");
+}
+.fam-vcard {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/vcard.png");
+}
+.fam-vcard-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/vcard_add.png");
+}
+.fam-vcard-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/vcard_delete.png");
+}
+.fam-vcard-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/vcard_edit.png");
+}
+.fam-vector {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/vector.png");
+}
+.fam-vector-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/vector_add.png");
+}
+.fam-vector-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/vector_delete.png");
+}
+.fam-wand {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/wand.png");
+}
+.fam-weather-clouds {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/weather_clouds.png");
+}
+.fam-weather-cloudy {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/weather_cloudy.png");
+}
+.fam-weather-lightning {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/weather_lightning.png");
+}
+.fam-weather-rain {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/weather_rain.png");
+}
+.fam-weather-snow {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/weather_snow.png");
+}
+.fam-weather-sun {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/weather_sun.png");
+}
+.fam-webcam {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/webcam.png");
+}
+.fam-webcam-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/webcam_add.png");
+}
+.fam-webcam-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/webcam_delete.png");
+}
+.fam-webcam-error {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/webcam_error.png");
+}
+.fam-world {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/world.png");
+}
+.fam-world-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/world_add.png");
+}
+.fam-world-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/world_delete.png");
+}
+.fam-world-edit {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/world_edit.png");
+}
+.fam-world-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/world_go.png");
+}
+.fam-world-link {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/world_link.png");
+}
+.fam-wrench {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/wrench.png");
+}
+.fam-wrench-orange {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/wrench_orange.png");
+}
+.fam-xhtml {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/xhtml.png");
+}
+.fam-xhtml-add {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/xhtml_add.png");
+}
+.fam-xhtml-delete {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/xhtml_delete.png");
+}
+.fam-xhtml-go {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/xhtml_go.png");
+}
+.fam-xhtml-valid {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/xhtml_valid.png");
+}
+.fam-zoom {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/zoom.png");
+}
+.fam-zoom-in {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/zoom_in.png");
+}
+.fam-zoom-out {
+  background-image: url("https://raw.githubusercontent.com/mika76/famfamfam_icons/master/icons/zoom_out.png");
+}

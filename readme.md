@@ -15,6 +15,7 @@ Showcase and search at https://mika76.github.io/famfamfam_icons/
 ![](icons/application_view_tile.png)
 ![](icons/page_white.png)
 ![](icons/page_white_php.png)
+![](icons/cog_error.png)
 ![](icons/dvd.png)
 ![](icons/text_align_left.png)
 ![](icons/text_bold.png)

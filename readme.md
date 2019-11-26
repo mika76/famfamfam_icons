@@ -1,9 +1,12 @@
 # Silk icon set 1.3
+By Mark James
+http://www.famfamfam.com/lab/icons/silk/
+
+Famfamfam silk icons in a css stylesheet to make easier to use from http://www.famfamfam.com/lab/icons/silk/
 
 Showcase and search at https://mika76.github.io/famfamfam_icons/
 
-By Mark James
-http://www.famfamfam.com/lab/icons/silk/
+
 
 ![](icons/drink_empty.png)
 ![](icons/hourglass_delete.png)
